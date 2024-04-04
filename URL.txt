@@ -1,0 +1,3 @@
+Hugging Face : https://huggingface.co/spaces/taliida-nabilah/Smart_Stock_Prediction
+
+Tableau : https://public.tableau.com/app/profile/lungun.ali.rusky.simbolon/viz/FinalProject_17121551041520/StockPriceAnalysis
