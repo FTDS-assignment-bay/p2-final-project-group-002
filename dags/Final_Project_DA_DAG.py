@@ -119,7 +119,7 @@ default_args = {
 with DAG(
     "Group_2_Stock_Data_Automation_DA",
     description='Final Project',
-    schedule_interval='00 12 * * *', # Set the schedule interval for executing the Airflow DAG
+    schedule_interval='00 00 * * *', # Set the schedule interval for executing the Airflow DAG
     default_args=default_args, # Set the default arguments for the DAG
     catchup=False # Disable catch-up scheduling to prevent backfilling for past intervals
 ) as dag:
