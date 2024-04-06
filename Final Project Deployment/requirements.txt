@@ -1,0 +1,6 @@
+scikit-learn==1.4.1.post1
+yfinance==0.2.37
+tensorflow==2.16.1
+numpy==1.26.4
+streamlit
+seaborn==0.13.2
